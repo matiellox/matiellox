@@ -1,17 +1,15 @@
 ## Olá, eu sou a Beatriz Matiello 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=matiellox&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matiellox&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=matiellox&show_icons=true"
-    media="(prefers-color-scheme: onedark), (prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=matiellox&show_icons=true" />
-</picture>
+  <p>
 </a> 
     <a href="https://github.com/matiellox?tab=repositories&sort=stargazers">
         <img 
