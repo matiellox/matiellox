@@ -1,92 +1,103 @@
-<!-- HEADER -->
+<!-- 🌙 HEADER / IDENTIDADE VISUAL R&B -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header&text=Beatriz%20Matiello&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f2a44&height=180&section=header&text=Beatriz%20Matiello&fontSize=38&fontColor=e0e6ed&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <i>soft tech • R&B energy • building with intention 🎧</i>
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🌙 Sobre mim
 
-Sou estudante de **Ciência da Computação**, em formação para atuar na área de desenvolvimento de software.
+Sou estudante de **Ciência da Computação**, em formação para atuar como desenvolvedora de software.
 
-Tenho interesse em **back-end, lógica de programação e sistemas orientados a objetos**, e estou em busca de uma oportunidade de **estágio ou primeiro emprego na área de tecnologia**.
+Tenho foco em **back-end, lógica de programação e sistemas**, e estou em busca da minha primeira oportunidade de **estágio em tecnologia**.
 
-Meu foco é aprender na prática, evoluir constantemente e contribuir com soluções reais dentro de um time.
+Meu objetivo é crescer de forma consistente, aprendendo na prática e contribuindo com equipes de desenvolvimento.
+
+---
+
+> “growth is quiet, but consistent.”
+
+---
+
+## 🎧 Inspiração
+
+Minha forma de ver tecnologia também é influenciada por criatividade e expressão.
+
+A artista **Kehlani** representa essa estética para mim — autenticidade, disciplina e evolução constante.
+
+> “you can’t grow without being honest with yourself.”
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0b1320?style=for-the-badge&logo=openjdk&logoColor=e0e6ed"/>
+  <img src="https://img.shields.io/badge/JavaScript-1f2a44?style=for-the-badge&logo=javascript&logoColor=e0e6ed"/>
+  <img src="https://img.shields.io/badge/HTML5-2c3e50?style=for-the-badge&logo=html5&logoColor=e0e6ed"/>
+  <img src="https://img.shields.io/badge/CSS3-5c677d?style=for-the-badge&logo=css3&logoColor=e0e6ed"/>
+  <img src="https://img.shields.io/badge/MySQL-0b1320?style=for-the-badge&logo=mysql&logoColor=e0e6ed"/>
+</p>
 
 ---
 
 ## 🎯 Objetivo profissional
 
-- Conquistar uma vaga de estágio em desenvolvimento de software  
-- Evoluir habilidades em programação back-end  
-- Aprimorar lógica, algoritmos e estrutura de sistemas  
-- Participar de projetos reais em equipe  
+Busco uma oportunidade de **estágio em desenvolvimento de software**, com foco em aprendizado prático e evolução técnica.
 
 ---
 
-## 💻 Tecnologias em estudo
+## 🧠 Foco atual
 
-- Java ☕ (principal foco)  
-- Estruturas de Dados  
-- Programação Orientada a Objetos (POO)  
-- SQL / Banco de Dados  
-- HTML, CSS e JavaScript (base front-end)  
-- Redes de Computadores  
+- Java ☕ (POO e lógica)
+- Estruturas de dados
+- Sistemas orientados a objetos
+- Banco de dados SQL
+- Desenvolvimento back-end
 
 ---
 
-## 🧠 Competências
+## 🧠 Soft Skills
 
-- Organização e gestão de tempo  
-- Facilidade para aprender novas tecnologias  
+- Consistência no aprendizado  
+- Pensamento lógico estruturado  
+- Organização e disciplina  
+- Comunicação clara  
 - Trabalho em equipe  
-- Comunicação técnica  
-- Atenção aos detalhes  
-- Persistência na resolução de problemas  
 
 ---
 
 ## 📂 Projetos
 
-> Em desenvolvimento — projetos acadêmicos e pessoais voltados para prática de programação.
-
 - Sistema Cliente-Servidor em Java  
 - Exercícios de lógica e algoritmos  
-- Projetos de estudo em POO  
-- Trabalhos acadêmicos da faculdade  
-
----
-
-## 📈 Evolução
-
-Atualmente focada em:
-
-- Melhorar lógica de programação  
-- Aprofundar Java e POO  
-- Entender arquitetura de sistemas  
-- Desenvolver projetos mais completos  
+- Projetos acadêmicos de POO  
+- Trabalhos da faculdade  
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: **beatrizsilvamatiello180205@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/matiellobeatriz](https://www.linkedin.com/in/matiellobeatriz/)  
-- 💻 GitHub: [github.com/matiellox](https://github.com/matiellox)
+<p align="center">
+  <a href="mailto:beatrizsilvamatiello180205@gmail.com">
+    <img src="https://img.shields.io/badge/email-0b1320?style=for-the-badge&logo=gmail&logoColor=e0e6ed"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/matiellobeatriz/">
+    <img src="https://img.shields.io/badge/linkedin-1f2a44?style=for-the-badge&logo=linkedin&logoColor=e0e6ed"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Consistência constrói competência."</i>
+  <i>"consistência constrói competência."</i>
 </p>
 
 <p align="center">
-  ⭐ Em busca da primeira oportunidade na área de tecnologia.
-</p>
-<p align="center">
-  <i>"Pequenos avanços diários constroem grandes resultados."</i>
-</p>
-
-<p align="center">
-  ⭐ Obrigada por visitar meu perfil!
+  ⭐ Em busca da primeira oportunidade em tecnologia
 </p>
