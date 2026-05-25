@@ -1,4 +1,4 @@
-<!-- HEADER MODERNO -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=140&section=header&text=Beatriz%20Matiello&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -13,8 +13,6 @@
 ## 👩‍💻 Sobre mim
 
 Sou **Beatriz Matiello**, estudante de **Ciência da Computação**, apaixonada por tecnologia, programação e desenvolvimento de sistemas.
-
-Busco evolução constante, aprendendo novas tecnologias e aplicando conhecimento em projetos reais.
 
 ---
 
@@ -39,15 +37,7 @@ Busco evolução constante, aprendendo novas tecnologias e aplicando conheciment
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matiellox&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
+## 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiellox&theme=tokyo-night&hide_border=true"/>
@@ -71,24 +61,36 @@ Busco evolução constante, aprendendo novas tecnologias e aplicando conheciment
 
 ---
 
-## 🎧 Spotify
+# 🎧 SPOTIFY (BLINDADO)
 
-### 🎶 Tocando agora
+## 🎶 Now Playing (principal)
+
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=may2qcrtgunrh3hi4sze08sqm&cover_image=true&theme=novatorem&show_offline=true"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=may2qcrtgunrh3hi4sze08sqm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
 </p>
 
-### 💿 Minhas músicas mais ouvidas (cards)
+---
+
+## 🔁 Backup (Recentemente tocadas)
+
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/top-tracks?uid=may2qcrtgunrh3hi4sze08sqm&theme=novatorem&limit=6"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=may2qcrtgunrh3hi4sze08sqm&count=6" />
+</p>
+
+---
+
+## 💿 Top músicas (quando disponível)
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/top-tracks?uid=may2qcrtgunrh3hi4sze08sqm&theme=novatorem&limit=6" />
 </p>
 
 ---
 
 ## 🎯 Foco atual
 
-- Programação orientada a objetos (Java ☕)
-- Estruturas de dados e algoritmos
+- Java ☕
+- Estruturas de dados
 - Redes de computadores
 - Desenvolvimento de sistemas
 
@@ -96,7 +98,7 @@ Busco evolução constante, aprendendo novas tecnologias e aplicando conheciment
 
 ## 🧠 Soft Skills
 
-- Organização e gestão de tempo  
+- Organização  
 - Trabalho em equipe  
 - Comunicação técnica  
 - Atenção aos detalhes  
