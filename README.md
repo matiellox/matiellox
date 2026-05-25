@@ -1,10 +1,10 @@
-<!-- 🌙 HEADER / IDENTIDADE VISUAL R&B -->
+<!-- 🌙 HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f2a44&height=180&section=header&text=Beatriz%20Matiello&fontSize=38&fontColor=e0e6ed&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <i>soft tech • R&B energy • building with intention 🎧</i>
+  <i>soft tech • R&B energy • quiet consistency 🎧</i>
 </p>
 
 ---
@@ -25,11 +25,23 @@ Meu objetivo é crescer de forma consistente, aprendendo na prática e contribui
 
 ## 🎧 Inspiração
 
-Minha forma de ver tecnologia também é influenciada por criatividade e expressão.
+Minha estética pessoal e criativa é inspirada no universo **R&B**, com foco em autenticidade, calma e evolução.
 
-A artista **Kehlani** representa essa estética para mim — autenticidade, disciplina e evolução constante.
+A artista **Kehlani** representa essa energia para mim — expressão emocional, disciplina e identidade.
 
 > “you can’t grow without being honest with yourself.”
+
+---
+
+## 🎮🌙 PIXEL ALBUM (R&B AESTHETIC)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matiellox/assets/main/kehlani-pixel-album.png" width="320"/>
+</p>
+
+<p align="center">
+  <i>soft emotions encoded in pixel form 🎧</i>
+</p>
 
 ---
 
@@ -47,7 +59,7 @@ A artista **Kehlani** representa essa estética para mim — autenticidade, disc
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade de **estágio em desenvolvimento de software**, com foco em aprendizado prático e evolução técnica.
+Busco uma oportunidade de **estágio em desenvolvimento de software**, com foco em aprendizado prático, crescimento técnico e evolução contínua.
 
 ---
 
