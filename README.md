@@ -1,11 +1,11 @@
-<!-- BANNER -->
+<!-- HEADER MODERNO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Beatriz%20Matiello&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=140&section=header&text=Beatriz%20Matiello&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- VISIT COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matiellox&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=matiellox&label=Profile%20views&color=1e3a8a&style=for-the-badge" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 Sou **Beatriz Matiello**, estudante de **Ciência da Computação**, apaixonada por tecnologia, programação e desenvolvimento de sistemas.
 
-Estou sempre em busca de evolução constante, aprendendo novas tecnologias e aplicando meus conhecimentos em projetos práticos.
+Busco evolução constante, aprendendo novas tecnologias e aplicando conhecimento em projetos reais.
 
 ---
 
@@ -39,42 +39,48 @@ Estou sempre em busca de evolução constante, aprendendo novas tecnologias e ap
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=matiellox&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matiellox&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Activity Graph (Dashboard)
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiellox&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matiellox&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matiellox&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=matiellox&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=matiellox" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=matiellox"/>
 </p>
 
 ---
 
 ## 🎧 Spotify
 
+### 🎶 Tocando agora
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=may2qcrtgunrh3hi4sze08sqm&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=may2qcrtgunrh3hi4sze08sqm&cover_image=true&theme=novatorem&show_offline=true"/>
+</p>
+
+### 💿 Minhas músicas mais ouvidas (cards)
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/top-tracks?uid=may2qcrtgunrh3hi4sze08sqm&theme=novatorem&limit=6"/>
 </p>
 
 ---
